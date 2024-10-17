@@ -7,7 +7,7 @@ la funcion es repetir un bloque de coddigo las veces necesarias
 for (condición){
     bloque de codigo 
 } */
-for(i=3 ; i<=15; i=i++){
+for(i=3 ; i<=15; i++){
 
     //document.write( "Hola desde js" + "<br>");
     //document.write(i+"<br>");
